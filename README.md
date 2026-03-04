@@ -16,9 +16,13 @@ L5 is built in community. For more information and to contribute, report bugs, e
 
 ## Running
 
-> Required [love](https://love2d.org/)
+> Required [Love2D](https://love2d.org/)
 
-`$ love .`
+`$ love /{dir_name}/`
+
+**Example**
+
+`$ love /sketch/`
 
 ## License
 
